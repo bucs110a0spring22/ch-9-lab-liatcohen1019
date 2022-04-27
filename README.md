@@ -10,9 +10,9 @@ Replace anything surrounded by the `< >` symbols._
  this code uses the creation of models name surface and rectangle and cerates a test that is completed. 
 
 ## GRACE DAYS
-Grace days used for this assignment: 0
+Grace days used for this assignment: 1
 
-Grace days remaining: 5/5
+Grace days remaining: 4/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
 None. I had dificulty with the surface and filename part but was able to figure it out. 
